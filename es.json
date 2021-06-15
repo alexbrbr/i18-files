@@ -1,5 +1,8 @@
 {
     "hello": "@@",
     "how.are.you": "@@",
-    "where.is": "@@"
+    "where.is": "@@",
+    "login.password.label.1": "@@",
+    "login.password.label.2": "@@"
+  
 }
