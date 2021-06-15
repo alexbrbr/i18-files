@@ -1,0 +1,5 @@
+{
+    "hello": "Bonjour",
+    "how.are.you": "Ça va ?",
+    "where.is": "Où est {{test}}"
+}
